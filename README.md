@@ -19,6 +19,6 @@
 # Install
 
 ```
-npm install vue-izitoast --save
-yarn add vue-izitoast
+$ npm install vue-izitoast --save
+$ yarn add vue-izitoast
 ```
